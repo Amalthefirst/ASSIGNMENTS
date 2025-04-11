@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Profile</title>
+</head>
+<body>
+
+    <header>
+        <h1>My Profile</h1>
+        <nav>
+            <ul>
+                <li><a href="#">About Me</a></li>
+                <li><a href="#">Hobbies</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <h2>My Bio</h2>
+        <img src="placeholder-image.jpg" alt="Placeholder Image" width="150" height="150">
+        <p>My name is Mrs Haleemah MB Ahmed, and I am a software developer.</p>
+    </section>
+
+    <section>
+        <h2>Hobbies</h2>
+        <ul>
+            <li>Reading</li>
+            <li>Travelling</li>
+            <li>Coding</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>Contact: haleemahmbahmed@developer.com</p>
+        <p>Twitter: @HaleemahDev</p>
+    </footer>
+
+</body>
+</html>
